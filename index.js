@@ -156,7 +156,7 @@ var qr_code_gopay = 'https://i.top4top.io/p_2053em3vh1.jpg' //gk usah di ubah ya
 var _minggu = 'Rp 15.000,00' //Masukkan harga sewa sesuai keinginan
 var __minggu = 'Rp 20.000,00'
 var ___minggu = 'Rp 25.000,00'
-var _bulan = 'Rp 20.000,00'
+var _bulan = 'Rp 40.000,00'
 var _permanen = 'Rp 120.000,00'
 var __permanen = 'Rp 170.000,00'
 
