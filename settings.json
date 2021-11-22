@@ -3,16 +3,16 @@
 	"autobio": false,
 	"antihidetag": true,
 	"user_register": false,
-	"anti_delete" : false,
+	"anti_delete" : true,
 	"anticall": true,
 	"prefix": ".",
 	"language":"ind",
-	"ownerNumber": "62887435047326",
-	"ownerNumberr": "62887435047326",
-	"cr": "@ZeeoneOfc",
-	"ownername": "ZeeoneOfc",
-	"botname":"Ａʟᴘʜᴀʙᴏᴛ",
+	"ownerNumber": "6281649357107",
+	"ownerNumberr": "6281649357107",
+	"cr": "@N-Athaa Bot",
+	"ownername": "RenBotZ",
+	"botname":"N-Athaa Bot",
 	"thumb":"thumbnail_1.jpg",
 	"fakethumb":"thumbnail_1.jpg", 
-	"fake": " 「  Ａʟᴘʜᴀʙᴏᴛ  」\nCreated By @ZeeoneOfc"
+	"fake": " 「  n-Athaa  」\nCreated By @RenBotZ"
 }
