@@ -1,33 +1,41 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
+return `PAYMENT BY RenBotZ
 
 *🏧 BANK*
 
 1. BRI 
-	ㅁ 8881 0887 4350 47326
+	ㅁ Tidak Tersedia
 2. BCA 
-	ㅁ 3901 0887 4350 47326
+	ㅁ Tidak Tersedia
 3. BNI 
-	ㅁ 881 0887 4350 47326
+	ㅁ Tidak Tersedia
 4. PERMATA
-	ㅁ 852 8887 4350 47326
+	ㅁ Tidak Tersedia
 	
 *💰 E-MONEY*
 
 1. GOPAY
-	ㅁ 0816 4935 7107
+	ㅁ 0816-4935-7107
 2. OVO
-	ㅁ 0816 4935 7107
+	ㅁ 0816-4935-7107
 3. DANA
-	ㅁ 0816 4935 7107
+	ㅁ 0816-4935-7107
 	
 Semuanya atas nama RenBotZ
 
 *📲 PULSA*
 
-Tidak tersedia
+1. Indosat Ooredoo 1
+        ㅁ 0816 4935 7107
+2. Indosat Ooredoo 2
+        ㅁ 0858 4582 3026
+3. Axis
+        ㅁ 0838 5370 7647
+
+
 	
 Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
+Ketik .𝗢𝘄𝗻𝗲𝗿
 `
 	}
 
