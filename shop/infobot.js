@@ -22,14 +22,14 @@ return `ℒ⃝👾 *B O T  S T A T I S T I C*
 
 ℒ⃝👨‍💻 *C O N N E C T  W I T H  M E*
 
-⛎ Api : api.alphabot.herokuapp.com
+⛎ Api : api.RenBotZ.herokuapp.com
 ♈ YouTube : https://youtube.com/channel/UChy1o7FRCEkt8ewAkFxq0HA
 ♉ Github : RenB0T.github.io
-♊ Instagram : instagram.com/zeeoneofc
-♋ Tiktok : tiktok.com/@zeeoneofc
-♌ Telegram : t.me/zeeoneofc
-♎ Ch Telegram : t.me/zeeone_ofc
-♏ WhatsApp : wa.me/+6285845823026
+♊ Instagram : Informasi pribadi!!
+♋ Tiktok : tiktok.com/@Desty_prsk
+♌ Telegram : Informasi Pribadi!!
+♎ Twetter : Nataa040320
+♏ WhatsApp : wa.me/+6285845823026?text=Hay+Owner+N-Athaa+B0T+:+)
 `}
 
 exports.infobot = infobot
