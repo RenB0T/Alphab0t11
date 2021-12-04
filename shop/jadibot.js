@@ -1,31 +1,31 @@
 const jadibut = () =>{
 return`╭──「 📖  *PRICE JADIBOT*」
 │
-├ • *Test Jadibot [25-45m]*
+├ • *Test Jadibot [10 menit-20 menit]*
 │
 │ ⤷ *Free* 💌
 │
 ├ • *Permanen*
 │
-│ ⤷ *Harga :  25k [E-Wallet]*
-│ ⤷ *Harga :  35k [Pulsa]*
+│ ⤷ *Harga :  45k [Axis Provider]*
+│ ⤷ *Harga :  45k [Indosat Provider]*
 │
 ├─ 「 💰  *PAYMENT* 」
 │
-│ ⤷ *Dana [Diutamakan]*
+│ ⤷ *Dana*
 │ ⤷ *Ovo*
 │ ⤷ *Gopay*
-│ ⤷ *Pulsa Telkom*
+│ ⤷ *Pulsa Indosat - Axis [ Diutamakan ]*
 │
 ├─ 「 👨‍💻  *RUN ON* 」
 │
 │ ⤷ *Heroku [Diutamakan]*
-│ ⤷ *Railway* 
+│ ⤷ *Google cloud sell*
 │
 ├─ 「 📝  *NOTES* 」
 │
 │ ⤷ _Tidak perlu termux_
-│ ⤷ _Minat? Hubungi 085845823026_
+│ ⤷ _Minat? Hubungi 085845823026 atau 081649357107_
 │
 ╰──「 *Thank's* 」
 `
