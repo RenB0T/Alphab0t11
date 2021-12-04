@@ -1,7 +1,7 @@
 const infobot = (latensii, totalchat, giid, wa_version, mcc, mnc, os_version, device_manufacturer, device_model, ownerNumberrr,runtime, kyun) => {
 return `ℒ⃝👾 *I N F O  B O T*
 
-🤖 *Nama Bot : ◄ 𝙍𝙚𝙣𝘽0𝙏 ►*
+🤖 *Nama Bot : ◄ 𝘈-𝘋𝘦𝘴𝘵𝘺 ►*
 👨‍💻 *Owner : @${ownerNumberrr.split('@')[0]}*
 👨‍👨‍👧‍👦 *Group Chat : ${giid.length}*
 👥 *Personal Chat : ${totalchat.length - giid.length}*
