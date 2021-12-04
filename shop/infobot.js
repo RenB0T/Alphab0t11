@@ -1,6 +1,7 @@
 const infobot = (latensii, totalchat, giid, wa_version, mcc, mnc, os_version, device_manufacturer, device_model, ownerNumberrr,runtime, kyun) => {
-return `ℒ⃝👾 *B O T  S T A T I S T I C*
+return `ℒ⃝👾 *I N F O  T E N T A N G  B O T*
 
+🤖 *Nama Bot : ◄ 𝙍𝙚𝙣𝘽0𝙏 ►
 👨‍💻 *Owner : @${ownerNumberrr.split('@')[0]}*
 👨‍👨‍👧‍👦 *Group Chat : ${giid.length}*
 👥 *Personal Chat : ${totalchat.length - giid.length}*
@@ -20,16 +21,18 @@ return `ℒ⃝👾 *B O T  S T A T I S T I C*
 📮 *Versi Hp : ${device_model}*
 
 
-ℒ⃝👨‍💻 *C O N N E C T  W I T H  M E*
+ℒ⃝👨‍💻 *I N F O  B O T  O W N E R*
 
-⛎ Api : api.RenBotZ.herokuapp.com
+⛎ Heroku : api.RenBotZ.herokuapp.com
 ♈ YouTube : https://youtube.com/channel/UChy1o7FRCEkt8ewAkFxq0HA
 ♉ Github : RenB0T.github.io
-♊ Instagram : Informasi pribadi!!
+♊ Instagram : Tidak Di Publikasikan!!
 ♋ Tiktok : tiktok.com/@Desty_prsk
-♌ Telegram : Informasi Pribadi!!
+♌ Telegram : Tidak Di Publikasikan!!
 ♎ Twetter : Nataa040320
 ♏ WhatsApp : wa.me/+6285845823026?text=Hay+Owner+N-Athaa+B0T+:+)
+
+ ▪▣❑ *Ingin Sewa B0T? Silahkan Hubungi Owner Di atas!!* ❑▣▪
 `}
 
 exports.infobot = infobot
