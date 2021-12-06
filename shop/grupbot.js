@@ -13,7 +13,7 @@ _https://chat.whatsapp.com/BeirAfnkfBoE0bogjbtWcr_
 
 Jika ada link yang ke reset, silahkan hubungi
 owner dibawah untuk meminta link yang baru
-_wa.me/+6285845823026?text=bang+minta+link+grub+yang+baru_
+_wa.me/+6285845823026_
 `
 }
 exports.gcbotwa = gcbotwa
