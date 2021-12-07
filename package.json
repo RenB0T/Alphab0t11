@@ -1,13 +1,13 @@
 {
   "name": "Alphabot",
-  "version": "11.8.3",
-  "description": "WhatsApp bot Nodejs",
+  "version": "12.1.0",
+  "description": "WhatsApp bot",
   "zeeone": "zeeone.js",
   "directories": {
     "lib": "lib"
   },
   "dependencies": {
-    "@adiwajshing/baileys": "github:adiwajshing/baileys": "^3.5.3",
+    "@adiwajshing/baileys": "^3.5.3",
     "async": "^3.2.1",
     "awesome-phonenumber": "^2.62.0",
     "axios": "^0.21.4",
@@ -20,6 +20,7 @@
     "emoji-api": "^1.0.2",
     "fb-video-downloader": "^1.0.3",
     "file-type": "^16.3.0",
+    "figlet": "^1.5.2",
     "fluent-ffmpeg": "^2.1.2",
     "g-i-s": "^2.1.6",
     "got": "^11.8.2",
